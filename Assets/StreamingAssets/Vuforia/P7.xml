@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Yanmega" size="0.066000 0.100921" />
+    <ImageTarget name="Tyrantrum" size="0.066000 0.100921" />
+    <ImageTarget name="Raikou" size="0.066000 0.100737" />
+    <ImageTarget name="Mamoswine" size="0.066000 0.100209" />
+    <ImageTarget name="Kabuto" size="0.066000 0.100737" />
+    <ImageTarget name="Archen" size="0.066000 0.100921" />
+    <ImageTarget name="Fletchling" size="0.063000 0.088359" />
+  </Tracking>
+</QCARConfig>
